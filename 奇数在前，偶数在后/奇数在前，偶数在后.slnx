@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="奇数在前，偶数在后/奇数在前，偶数在后.vcxproj" />
+</Solution>
