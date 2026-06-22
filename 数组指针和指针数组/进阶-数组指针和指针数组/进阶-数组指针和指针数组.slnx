@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="进阶-数组指针和指针数组/进阶-数组指针和指针数组.vcxproj" />
+</Solution>
