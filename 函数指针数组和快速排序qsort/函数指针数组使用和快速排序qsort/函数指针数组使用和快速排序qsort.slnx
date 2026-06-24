@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="函数指针数组使用和快速排序qsort/函数指针数组使用和快速排序qsort.vcxproj" Id="80c7fdcf-000a-4998-a9b4-f610f84ed239" />
+</Solution>

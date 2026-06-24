@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="模拟实现qsort/模拟实现qsort.vcxproj" Id="6560ec48-cdb8-4e3a-8721-ef4027bad663" />
+</Solution>
