@@ -1,0 +1,58 @@
+﻿  源.cpp
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(5,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(5,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(6,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(7,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(8,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(9,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(10,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(12,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(13,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(27,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(27,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(31,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(31,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(33,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(33,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(36,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(36,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(39,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(39,9):
+      请考虑在格式字符串中使用“%zu”
+  
+C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(41,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\数组名的讨论\源.cpp(41,9):
+      请考虑在格式字符串中使用“%zu”
+  
+  数组名的讨论.vcxproj -> C:\Users\xuyifeng\Desktop\code\c.CODE\数组名的讨论\数组名的讨论\x64\Debug\数组名的讨论.exe
